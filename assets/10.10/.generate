@@ -1,0 +1,18 @@
+#!/bin/sh
+cd "$(dirname "$0")"
+
+sips -s format png install.icns --out install_16x16.png --resampleWidth 16
+sips -s format png install.icns --out install_32x32.png --resampleWidth 32
+sips -s format png install.icns --out install_64x64.png --resampleWidth 64
+sips -s format png install.icns --out install_128x128.png --resampleWidth 128
+sips -s format png install.icns --out install_256x256.png --resampleWidth 256
+sips -s format png install.icns --out install_512x512.png --resampleWidth 512
+sips -s format png install.icns --out install_1024x1024.png --resampleWidth 1024
+
+sips -s format png product.icns --out product_16x16.png --resampleWidth 16
+sips -s format png product.icns --out product_32x32.png --resampleWidth 32
+sips -s format png product.icns --out product_64x64.png --resampleWidth 64
+sips -s format png product.icns --out product_128x128.png --resampleWidth 128
+sips -s format png product.icns --out product_256x256.png --resampleWidth 256
+sips -s format png product.icns --out product_512x512.png --resampleWidth 512
+sips -s format png product.icns --out product_1024x1024.png --resampleWidth 1024
