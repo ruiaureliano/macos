@@ -148,3 +148,18 @@
 - [Product.icns](./assets/13.0/product.icns)
 
 ## macOS 14.0 Sonoma (2023)
+
+|                 | Install                                                      | Product                                                      |
+| --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| PNG (16x16)     | <img src="./assets/14.0/install_16x16.png" width="16">       | <img src="./assets/14.0/product_16x16.png" width="16">       |
+| PNG (32x32)     | <img src="./assets/14.0/install_32x32.png" width="32">       | <img src="./assets/14.0/product_32x32.png" width="32">       |
+| PNG (64x64)     | <img src="./assets/14.0/install_64x64.png" width="64">       | <img src="./assets/14.0/product_64x64.png" width="64">       |
+| PNG (128x128)   | <img src="./assets/14.0/install_128x128.png" width="128">    | <img src="./assets/14.0/product_128x128.png" width="128">    |
+| PNG (256x256)   | <img src="./assets/14.0/install_256x256.png" width="256">    | <img src="./assets/14.0/product_256x256.png" width="256">    |
+| PNG (512x512)   | <img src="./assets/14.0/install_512x512.png" width="512">    | <img src="./assets/14.0/product_512x512.png" width="512">    |
+| PNG (1024x1024) | <img src="./assets/14.0/install_1024x1024.png" width="1024"> | <img src="./assets/14.0/product_1024x1024.png" width="1024"> |
+
+### ICNS Files
+
+- [Install.icns](./assets/14.0/install.icns)
+- [Product.icns](./assets/14.0/product.icns)
