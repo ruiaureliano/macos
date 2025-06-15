@@ -1,0 +1,4 @@
+cd "$(dirname "$0")"
+rm -rf product.png install.png
+sips -s format png product.icns --out product.png --resampleWidth 128
+sips -s format png install.icns --out install.png --resampleWidth 128
