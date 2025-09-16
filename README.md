@@ -1,4 +1,4 @@
-# 🖥️ macOS Versions (2001 – 2024)
+# 🖥️ macOS Versions (2001 – 2025)
 
 [![](https://img.shields.io/badge/MIT-License-EB186E.svg)](https://opensource.org/licenses/MIT)
 
