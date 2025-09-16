@@ -30,7 +30,7 @@
 | macOS 13      | Ventura       | October 24, 2022   | [<img src="./versions/13.0/product.png" width="64">](./versions/13.0/product.icns)   | [<img src="./versions/13.0/install.png" width="64">](./versions/13.0/install.icns)   |
 | macOS 14      | Sonoma        | September 26, 2023 | [<img src="./versions/14.0/product.png" width="64">](./versions/14.0/product.icns)   | [<img src="./versions/14.0/install.png" width="64">](./versions/14.0/install.icns)   |
 | macOS 15      | Sequoia       | September 16, 2024 | [<img src="./versions/15.0/product.png" width="64">](./versions/15.0/product.icns)   | [<img src="./versions/15.0/install.png" width="64">](./versions/15.0/install.icns)   |
-| macOS 26      | Tahoe (βeta)  | June 9, 29025      | [<img src="./versions/26.0/product.png" width="64">](./versions/26.0/product.icns)   | [<img src="./versions/26.0/install.png" width="64">](./versions/26.0/install.icns)   |
+| macOS 26      | Tahoe         | September 17, 2025 | [<img src="./versions/26.0/product.png" width="64">](./versions/26.0/product.icns)   | [<img src="./versions/26.0/install.png" width="64">](./versions/26.0/install.icns)   |
 
 # 🚀 Export .PNG from .ICNS
 
